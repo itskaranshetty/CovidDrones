@@ -1,6 +1,3 @@
-#! /usr/bin/python2
-# Atharv Sonwane <atharvs.twm@gmail.com>
-
 from __future__ import print_function
 
 import rospy

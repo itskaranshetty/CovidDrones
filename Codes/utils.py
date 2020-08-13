@@ -1,6 +1,3 @@
-#! /usr/bin/python2
-# Atharv Sonwane <atharvs.twm@gmail.com>
-
 import math
 
 def dist(p1, p2):
